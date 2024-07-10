@@ -34,6 +34,5 @@ def main():
     strength = password_checker(password)
     print("Password strength:", strength)
 
-if __name__ == "__main__":
-    main()
+main()
 
